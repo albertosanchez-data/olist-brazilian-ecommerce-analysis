@@ -214,6 +214,25 @@ olist-brazilian-ecommerce-analysis/
 Raw datasets and local processing files are intentionally excluded from the repository.
 
 ---
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+### Customer & Sales Analysis
+
+![Customer & Sales Analysis](images/customer_sales_analysis.png)
+
+### Product & Seller Analysis
+
+![Product & Seller Analysis](images/product_seller_analysis.png)
+
+### Logistics & Delivery Performance
+
+![Logistics & Delivery Performance](images/logistics_delivery_performance.png)
+
+---
 
 ## Analytical Workflow
 
